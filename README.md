@@ -10,6 +10,11 @@ In this project we improved on our battleships game. In our [last project](https
 - SOLID Principles
 - User experience and interface design
 - Agile principles
+- Feature Testing
+- How to set-up and use Sinatra
+- Routes
+- Introduction to HTML & CSS
+- Deploying to Heroku
 
 ##Technology Used
 - Ruby
