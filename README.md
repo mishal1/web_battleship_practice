@@ -1,6 +1,6 @@
 #Battleship in the Browser
 
-Week 3 at Maker's Academy.
+Week 3 at Makers Academy.
 
 ##Context
 In this project we improved on our battleships game. In our [last project](https://github.com/mishal1/Battleship) we implemented the battleships game for the terminal. This week we attempted to put the game we built into the browser using Sinatra.
